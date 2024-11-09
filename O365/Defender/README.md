@@ -1,3 +1,6 @@
+# Overview
+This script manages sender and domain blocks in Microsoft Exchange Online across multiple tenants. With multi-tenancy support, the script can perform bulk operations on various tenants listed in a CSV file, adding or removing blocked domains and senders with flexible expiration settings.
+
 # Prerequisites
 > PowerShell 5.1 or later
 > 
