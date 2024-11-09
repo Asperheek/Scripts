@@ -1,7 +1,9 @@
 # Prerequisites
 > PowerShell 5.1 or later
 > 
-> ExchangeOnlineManagement module installed. Run the following to install it:
+> ExchangeOnlineManagement module installed.
+
+Run the following to install it:
 
 ```
 Install-Module ExchangeOnlineManagement
