@@ -30,3 +30,10 @@ user2@tenant2.onmicrosoft.com,Tenant 2
 ```
 .\Update-TenantBlockList.ps1 "C:\path\to\tenants.csv"
 ```
+
+# References
+```
+https://learn.microsoft.com/en-us/powershell/module/exchange/connect-exchangeonline?view=exchange-ps
+https://learn.microsoft.com/nl-nl/exchange/standalone-eop/sample-script-standalone-eop-settings-to-multiple-tenants
+https://practical365.com/tenant-block-list-automation/
+```
