@@ -7,6 +7,19 @@ This repository contains two Python scripts that automate interactions with Splu
 - **`splunk_rest_handler_upload_lookups.py`**: Uploads lookup files to Splunk and optionally creates lookup definitions.
 - **`splunk_rest_handler_delete_lookups.py`**: Deletes lookup files or lookup definitions from Splunk.
 
+### Upload and Define Lookups
+
+![Splunk REST Handler Upload Lookups](splunk_rest_handler_upload_lookups.png)
+
+### Delete Lookup CSV Files
+
+![Splunk REST Handler Delete Lookup_Files](splunk_rest_handler_delete_lookup_files.png)
+
+### Delete Lookup Definitions
+
+![Splunk REST Handler Delete Lookup_Definitions](splunk_rest_handler_delete_lookup_definitions.png)
+
+
 ## References
 
 ```
