@@ -31,6 +31,10 @@ user2@tenant2.onmicrosoft.com,Tenant 2
 .\Update-TenantBlockList.ps1 "C:\path\to\tenants.csv"
 ```
 
+# Sample Screenshots
+![sample_out_1](sample_out_1.png)
+![sample_out_2](sample_out_2.png)
+
 # References
 ```
 https://learn.microsoft.com/en-us/powershell/module/exchange/connect-exchangeonline?view=exchange-ps
